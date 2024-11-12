@@ -157,6 +157,11 @@ worked out). If a Steering Committee member is terminated or removed from the
 Steering Committee, any rights the Steering Committee member may have in the
 Marks revert to the Organization.
 
+Since CodeRefinery is not a legal entity, we aren't taking ownership in the
+legal sense but making an informal agreement about how the name and brand will
+be used. The Steering Committee can propose formalization towards a legal
+entity if/when they decide it is needed.
+
 
 ## 8. Amendments
 
