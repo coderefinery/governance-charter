@@ -101,7 +101,7 @@ CodeRefinery is operated as an open-source project with an open community member
 - Each funding partner has the right to appoint a member of the Steering Committee. Initial composition is one person per funding organization of the NeIC project (phase 3).
 - The Steering Committee should consist of a minimum 3 persons.
 - At least one Steering Committee member is elected by the community.
-- The Steering Committee appoints a Chair responsible for organizing Steering Committee activity.
+- The chair of the Steering Committee is appointed by NeIC.
 - The Steering Committee will meet at least four times a year to discuss high-level matters and the broad direction. Institutional items shall include a yearly report (first meeting) and a commitment to budget for upcoming year (second meeting).
 
 **3.3 Termination of membership**. The membership can be terminated by a
