@@ -1,6 +1,7 @@
 # Governance charter for the CodeRefinery organization
 
-**THIS DOCUMENT IS A DRAFT.** Please see the README on how and where to suggest changes.
+**THIS DOCUMENT IS A DRAFT.** Please see the README on how and where to suggest
+changes.
 
 **Purpose of this document**. The purpose is to make a way for others (not part
 of the 2016-2024 NeIC collaboration agreements) to take a formal part of
@@ -24,8 +25,8 @@ Governance](https://github.blog/open-source/maintainers/minimum-viable-governanc
 
 ## 0. Changes from the steering model 2016-2024
 
-* 2016-2024 the project was/is managed using the [PPS model](https://www.tietoevry.com/en/create/pps/) developed by Tieto-Evry which is used for all NeIC-funded projects. The present document and charter does not have to replace the PPS model and can be used as a complementary model. PPS can be used at the interface NeIC-CodeRefinery while the present governance charter is the more community-facing collaboration and steering model.
-* It is possible for other partners to join the Steering Committee (and with that, bring more resources). There is at least one community member elected to the steering committee.
+* 2016-2024 the project was/is managed using the [PPS model](https://www.tietoevry.com/en/create/pps/) developed by Tieto-Evry which is used for all NeIC-funded projects. The present document and charter is not intended to replace the PPS model and can be used as a complementary model.
+* There is at least one community member elected to the steering committee.
 * The Steering Committee should take a more active role in advising the future directions of CodeRefinery (especially about collaborations and what counts as a "CodeRefinery workshop").
 * The community has more say. The community already essentially decides the direction, but there isn't much connection to the Steering Committee and this charter tries to improve this.
 
@@ -91,7 +92,7 @@ CodeRefinery is operated as an open-source project with an open community member
   - Manage transferring the GitLab service to another organization
 - Financial oversight
   - Make agreements on behalf of CodeRefinery
-  - Business plan and budget plan
+  - Business case and budget plan
   - Capacity plan
   - Works with organizational partners to define in-kind contributions and roles
 
@@ -101,7 +102,7 @@ CodeRefinery is operated as an open-source project with an open community member
 - The Steering Committee should consist of a minimum 3 persons.
 - At least one Steering Committee member is elected by the community.
 - The Steering Committee appoints a Chair responsible for organizing Steering Committee activity.
-- The Steering Committee will meet at least twice a year to discuss high-level matters and the broad direction. Institutional items shall include a yearly report (first meeting) and a commitment to budget for upcoming year (second meeting).
+- The Steering Committee will meet at least four times a year to discuss high-level matters and the broad direction. Institutional items shall include a yearly report (first meeting) and a commitment to budget for upcoming year (second meeting).
 
 **3.3 Termination of membership**. The membership can be terminated by a
 written notice of resignation to the Steering Committee.  If a member is
@@ -143,7 +144,9 @@ simple majority vote of all voting members.
 
 ## 6. Code of conduct
 
-All organization members are expected to abide by our community standards of cooperation and respect, outlined in our [code of conduct](https://coderefinery.org/about/code-of-conduct/).
+All organization members are expected to abide by our community standards of
+cooperation and respect, outlined in our [code of
+conduct](https://coderefinery.org/about/code-of-conduct/).
 
 
 ## 7. Trademarks
