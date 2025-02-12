@@ -6,9 +6,9 @@ changes.
 **Purpose of this document**. The purpose is to make a way for others (not part
 of the 2016-2024 NeIC collaboration agreements) to take a formal part of
 CodeRefinery. With this document we wish to make it easier for organizations
-and individuals to commit resources to CodeRefinery. It is a basic outline to
-get started, and it's up to the Steering Committee to develop procedures as
-CodeRefinery evolves.
+and individuals to commit resources to CodeRefinery and provide a framework for
+using the results. It is a basic outline to get started, and it's up to the
+Steering Group to develop procedures as CodeRefinery evolves.
 
 **Connection to funding structure**. This charter assumes as a starting point
 that most of the work is contributed in-kind while coordination and community
@@ -25,10 +25,10 @@ Governance](https://github.blog/open-source/maintainers/minimum-viable-governanc
 
 ## 0. Changes from the steering model 2016-2024
 
-* 2016-2024 the project was/is managed using the [PPS model](https://www.tietoevry.com/en/create/pps/) developed by Tieto-Evry which is used for all NeIC-funded projects. The present document and charter is not intended to replace the PPS model and can be used as a complementary model.
-* There is at least one community member elected to the steering committee.
-* The Steering Committee should take a more active role in advising the future directions of CodeRefinery (especially about collaborations and what counts as a "CodeRefinery workshop").
-* The community has more say. The community already essentially decides the direction, but there isn't much connection to the Steering Committee and this charter tries to improve this.
+- 2016-2024 the project was/is managed using the [PPS model](https://www.tietoevry.com/en/create/pps/) developed by Tieto-Evry which is used for all NeIC-funded projects. The present document and charter is not intended to replace the PPS model and can be used as a complementary model.
+- There is at least one community member elected to the Steering Group.
+- The Steering Group should take a more active role in advising the future directions of CodeRefinery (especially about collaborations and what counts as a "CodeRefinery workshop").
+- The community has more say. The community already essentially decides the direction, but there isn't much connection to the Steering Group and this charter tries to improve this.
 
 
 ## 1. Mission, vision, and guiding principles
@@ -46,12 +46,13 @@ Governance](https://github.blog/open-source/maintainers/minimum-viable-governanc
 - We have a wide variety of other rotating workshops, organized by partners but with contribution by many.
 - Our core workshops are a regular recommendation for any students or researchers doing computational research. When research projects need extra training, they think of us and our team.
 - Improved teaching skills among CodeRefinery staff.
+- CodeRefinery material is adopted by a wide range of organisations across Europe and globally, e.g. by HPC centres, various scientific community projects, and research organisations.
 
 **1.3 Guiding principles** (when a difficult decision needs to be made, we invoke the following guiding principles):
 
 - At our core, we are an open project and structure our working methods like one. Our outputs are openly licensed with distributed copyright. Encourage and simplify collaboration.
 - We optimize for practical usability for beginners in reproducible computational work. We do not try to replace career-oriented IT training. (The CodeRefinery community does help with other advanced courses).
-- When in doubt, do whatscience/research/academics need right now to increase the integrity of their science.
+- When in doubt, do what science/research/academics need right now to increase the integrity of their science.
 - Data, software, and documents created by the organization are shared as open as possible and as closed as necessary.
 
 
@@ -60,14 +61,14 @@ Governance](https://github.blog/open-source/maintainers/minimum-viable-governanc
 CodeRefinery is operated as an open-source project with an open community membership of individuals and organizational partners.
 
 - **Partner institutions**: The institutions that collaborate.
-- **Steering Committee**: Provides high-level strategy and help. Can be consulted on big decisions and for tricky trade-offs. Within the mission statement, delegates day to day decisions to Community Managers.
-- **Community Managers**: Manage day-to-day work and connection with the steering committee. Build consensus among those doing the actual work for the day-to-day operations.
-- **Community**: Does most of the work and should be recognized for their work. The Steering Committee should agree on some appropriate way to recognize community members.
+- **Steering Group**: Provides high-level strategy and help. Can be consulted on big decisions and for tricky trade-offs. Within the mission statement, delegates day to day decisions to Community/Project Managers.
+- **Community/Project Managers**: Manage day-to-day work and connection with the Steering Group. Build consensus among those doing the actual work for the day-to-day operations. At the time of writing this charter, there is one Community Manager who corresponds to the Project Manager in the [PPS model](https://www.tietoevry.com/en/create/pps/pps-model/). As the community and project grows, we anticipate the possibility of more than one Community/Project manager.
+- **Community**: Does most of the work and should be recognized for their work. The Steering Group should agree on some appropriate way to recognize community members.
 
 
-## 3. Steering Committee
+## 3. Steering Group
 
-**3.1 Purpose and responsibilities** (responsibilities may be delegated to the Community Managers):
+**3.1 Purpose and responsibilities** (responsibilities may be delegated to the Community/Project Managers):
 
 - Strategic and organizational planning
   - Project approval and oversight
@@ -77,9 +78,11 @@ CodeRefinery is operated as an open-source project with an open community member
   - Ensuring the effective implementation of community objectives
   - Steering the lesson portfolio
   - Provide a contact point
+  - Define and maintain the governance model
+  - Resolve disputes or conflicts that cannot be handled at other levels
 - Overseeing contributions
   - Confirms partner-level contributions.
-  - Confirms Community Managers (likely with the community's input) and delegates most daily operations to them.
+  - Confirms Community/Project Manager(s) (likely with the community's input) and delegates most daily operations to them.
   - Guides the definition of the CodeRefinery community
   - Guides how cross-organization events should be reported to make sure that credit goes to the right place
 - Managing the brand
@@ -87,7 +90,7 @@ CodeRefinery is operated as an open-source project with an open community member
   - Manage intellectual property with a distributed ownership model
   - Guides the definition of what event can be called “CodeRefinery workshop”
 - Technical oversight
-  - Manage accounts: Freshdesk, Twitter, Fosstodon, GitHub, domain name registration, HackMD, HedgeDoc, Indico, chat, mailing lists, GitLab, YouTube
+  - Delegate administration of various accounts: Freshdesk, Twitter, Fosstodon, GitHub, domain name registration, HackMD, HedgeDoc, Indico, chat, mailing lists, GitLab, YouTube
   - Manage the data and data sharing policies
   - Manage transferring the GitLab service to another organization
 - Financial oversight
@@ -95,50 +98,51 @@ CodeRefinery is operated as an open-source project with an open community member
   - Business case and budget plan
   - Capacity plan
   - Works with organizational partners to define in-kind contributions and roles
+  - Contribute to the project’s sustainability by securing sponsorships or funding
 
 **3.2 Composition**.
 
-- Each funding partner has the right to appoint a member of the Steering Committee. Initial composition is one person per funding organization of the NeIC project (phase 3).
-- The Steering Committee should consist of a minimum 3 persons.
-- At least one Steering Committee member is elected by the community.
-- The chair of the Steering Committee is appointed by NeIC.
-- The Steering Committee will meet at least four times a year to discuss high-level matters and the broad direction. Institutional items shall include a yearly report (first meeting) and a commitment to budget for upcoming year (second meeting).
+- Each funding partner has the right to appoint a member of the Steering Group. Initial composition is one person per funding organization of the NeIC project (phase 3).
+- The Steering Group should consist of a minimum 5 persons.
+- At least one Steering Group member is elected by the community.
+- The chair of the Steering Group is appointed by NeIC.
+- The Steering Group will meet at least four times a year to discuss high-level matters and the broad direction. Institutional items shall include a yearly report (first meeting) and a commitment to budget for upcoming year (second meeting).
 
 **3.3 Termination of membership**. The membership can be terminated by a
-written notice of resignation to the Steering Committee.  If a member is
-unresponsive for more than three months the Steering Committee may vote to
-remove the member.
+written notice of resignation to the Steering Group.  If a member is
+unresponsive for more than three months the Steering Group may vote to remove
+the member.
 
-**3.4. Decision making**. The Steering Committee will strive for all decisions
-to be made by consensus. While explicit agreement of the entire Steering
-Committee is preferred, it is not required for consensus. Rather, the Steering
-Committee will determine consensus based on their good faith consideration of a
-number of factors, including the dominant view of the Steering Committee and
-nature of support and objections. The Steering Committee will document evidence
-of consensus in accordance with these requirements. If consensus cannot be
-reached, the Steering Committee will make the decision by a vote.
+**3.4. Decision making**. The Steering Group will strive for all decisions to
+be made by consensus. While explicit agreement of the entire Steering Group is
+preferred, it is not required for consensus. Rather, the Steering Group will
+determine consensus based on their good faith consideration of a number of
+factors, including the dominant view of the Steering Group and nature of
+support and objections. The Steering Group will document evidence of consensus
+in accordance with these requirements. If consensus cannot be reached, the
+Steering Group will make the decision by a vote.
 
-**3.5. Voting**. The Steering Committee Chair will call a vote with reasonable
-notice to the Steering Committee, setting out a discussion period and a
-separate voting period. Any discussion may be conducted in person or
-electronically by text, voice, or video. The discussion will be open to the
-public. In any vote, each voting representative will have one vote. Except as
-specifically noted elsewhere in this charter, decisions by vote require a
-simple majority vote of all voting members.
+**3.5. Voting**. The Steering Group Chair will call a vote with reasonable
+notice to the Steering Group, setting out a discussion period and a separate
+voting period. Any discussion may be conducted in person or electronically by
+text, voice, or video. The discussion will be open to the public. In any vote,
+each voting representative will have one vote. Except as specifically noted
+elsewhere in this charter, decisions by vote require a simple majority vote of
+all voting members.
 
 
-## 4. Community Managers
+## 4. Community/Project Manager(s)
 
 - Coordinate the project on a day-to-day basis.
-- Appointed by the Steering Committee (with consultation of the community).
-- Report to and work with the Steering Committee, but mainly lead the community in doing the work.
+- Appointed by the Steering Group (with consultation of the community).
+- Report to and work with the Steering Group, but mainly lead the community in doing the work.
 - Ensure rough consensus and push things forward if it can't be done.
 - Can appoint leads in different areas.
 
 
 ## 5. Community
 
-- Community does most of the work, and should be recognized as decided by the Community Managers and Steering Committee.
+- Community does most of the work, and should be recognized as decided by the Community/Project Managers and Steering Group.
 - This is a volunteer organization, and volunteer members do not have any requirement to do anything apart from following this charter and our code of conduct.
 
 
@@ -154,22 +158,28 @@ conduct](https://coderefinery.org/about/code-of-conduct/).
 Any names, trademarks, service marks, logos, mascots, or similar indicators of
 source or origin and the goodwill associated with them arising out of
 CodeRefinery activities or CodeRefinery projects' activities (the "Marks"), are
-controlled by the Organization. Steering Committee members may only use the
-Marks in accordance with the Organization's trademark policy (which needs to be
-worked out). If a Steering Committee member is terminated or removed from the
-Steering Committee, any rights the Steering Committee member may have in the
-Marks revert to the Organization.
+controlled by the Organization. Steering Group members may only use the Marks
+in accordance with the Organization's trademark policy (which needs to be
+worked out). If a Steering Group member is terminated or removed from the
+Steering Group, any rights the Steering Group member may have in the Marks
+revert to the Organization.
 
 Since CodeRefinery is not a legal entity, we aren't taking ownership in the
 legal sense but making an informal agreement about how the name and brand will
-be used. The Steering Committee can propose formalization towards a legal
-entity if/when they decide it is needed.
+be used. The Steering Group can propose formalization towards a legal entity
+if/when they decide it is needed.
 
 
 ## 8. Amendments
 
+The charter should be reviewed at regular intervals (as part of Steering Group
+meetings) to ensure it aligns with developments of the organization.
+
+Also the community and Community/Project Managers can suggest
+amendments/modifications for the Steering Group to discuss and vote on.
+
 Amendments to this charter may only be made with at least a 3/4 affirmative
-vote of the Steering Committee.
+vote of the Steering Group.
 
 ---
 
