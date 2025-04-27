@@ -1,9 +1,18 @@
 # Governance charter for the CodeRefinery organization
 
 
+## Version history and summary of changes
+
+### 2025-04-27
+
+- This is the initial version which is the result of 1.5 years of work and 6
+  months of collecting feedback from the team and the steering group.
+
+
 ## How to suggest changes
 
-- You can [open a GitHub issue](https://github.com/coderefinery/governance-charter/issues)
+- You can [open a GitHub issue](https://github.com/coderefinery/governance-charter/issues).
+- These changes are typically reviewed at steering group meetings.
 
 
 ## Background
