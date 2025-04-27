@@ -1,8 +1,5 @@
 # Governance charter for the CodeRefinery organization
 
-**THIS DOCUMENT IS A DRAFT.** Please see the README on how and where to suggest
-changes.
-
 **Purpose of this document**. The purpose is to make a way for others (not part
 of the 2016-2024 NeIC collaboration agreements) to take a formal part of
 CodeRefinery. With this document we wish to make it easier for organizations
